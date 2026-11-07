@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+
+# Scratch & temporary logs
+scratch/
+reports/egitim_log.txt
+
+# Large Parquet raw data (>50MB, processed images are in data/processed)
+data/raw/*.parquet
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

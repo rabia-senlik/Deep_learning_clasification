@@ -1,0 +1,7 @@
+{
+  "test_dogruluk": 0.8361111111111111,
+  "hatali_tahmin_sayisi": 59,
+  "test_ornek_sayisi": 360,
+  "baz_cizgi_rf_dogruluk": 0.9,
+  "model_dosyasi": "models\\neu_cnn_baseline.keras"
+}

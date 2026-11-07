@@ -1,0 +1,10 @@
+,precision,recall,f1-score,support
+crazing,0.9677,1.0,0.9836,60.0
+inclusion,0.8913,0.6833,0.7736,60.0
+patches,1.0,1.0,1.0,60.0
+pitted_surface,0.5568,0.8167,0.6622,60.0
+rolled-in_scale,0.8824,1.0,0.9375,60.0
+scratches,0.8611,0.5167,0.6458,60.0
+accuracy,0.8361,0.8361,0.8361,0.8361
+macro avg,0.8599,0.8361,0.8338,360.0
+weighted avg,0.8599,0.8361,0.8338,360.0
